@@ -1,1 +1,1 @@
-# Etsy-Inc-Web-Scraping-Project
+# Etsy-Web-Scraping-Project
